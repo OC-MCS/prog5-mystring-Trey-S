@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\tcsch\source\repos\string\string\main.cpp(12): error C3867: 'MyString::ShowString': non-standard syntax; use '&' to create a pointer to member
